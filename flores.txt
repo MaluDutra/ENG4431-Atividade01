@@ -1,0 +1,7 @@
+1,Rosa,Vermelho,14.90,11/03/2024,Rosaceae
+2,Girassol,Amarelo,16.90,10/03/2024,Helianthus annuus L.
+3,Hibisco,Rosa,14.50,09/03/2024,Hibiscus L.
+4,Crisântemo,Multicolorido,10.40,05/03/2024,Chrysanthemum
+5,Peônia,Rosa,13.50,03/03/2024,Paeonia
+6,Lírio,Branco,15.60,28/02/2024,Lilium
+7,Lírio-do-Vale,Branco,900.00,09/09/1900,pipipi
